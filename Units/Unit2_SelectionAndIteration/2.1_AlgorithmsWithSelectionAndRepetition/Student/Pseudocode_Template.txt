@@ -1,0 +1,49 @@
+# Lab 2.1 - Designing Algorithms with Selection and Repetition
+# Student Pseudocode Template
+
+--------------------------------------
+Task 1 - Positive Number Check
+--------------------------------------
+# Write pseudocode that reads a number and checks if it is positive.
+BEGIN
+  READ __________
+  IF __________ THEN
+      PRINT __________
+  ELSE
+      PRINT __________
+  ENDIF
+END
+
+
+--------------------------------------
+Task 2 - Repetition (1 to 10)
+--------------------------------------
+# Write pseudocode for a loop that prints numbers 1 through 10.
+BEGIN
+  SET __________ = 1
+  WHILE __________ <= __________
+      PRINT __________
+      __________ = __________ + 1
+  ENDWHILE
+END
+
+
+--------------------------------------
+Task 3 - Sum of Evens 1-20
+--------------------------------------
+# Write pseudocode that calculates the sum of even numbers from 1–20.
+BEGIN
+  SET __________ = 0
+  FOR __________ = 2 TO __________ STEP __________
+      __________ = __________ + __________
+  NEXT __________
+  PRINT __________
+END
+
+
+--------------------------------------
+Reflection (Write below)
+--------------------------------------
+# Write your reflection here:
+# - Why is pseudocode important before coding?
+# - How does repetition make tasks simpler?
