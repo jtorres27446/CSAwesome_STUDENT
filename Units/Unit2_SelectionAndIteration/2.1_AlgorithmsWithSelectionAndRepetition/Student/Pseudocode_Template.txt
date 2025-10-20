@@ -6,12 +6,11 @@ Task 1 - Positive Number Check
 --------------------------------------
 # Write pseudocode that reads a number and checks if it is positive.
 BEGIN
-  READ __________
-  IF __________ THEN
-      PRINT __________
-  ELSE
-      PRINT __________
-  ENDIF
+  READ num
+  IF num > 0 THEN
+      PRINT Positive
+  else 
+    Print negative
 END
 
 
